@@ -56,6 +56,19 @@
     border: 1px solid #ccc;
 }
 
+.input-number {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #00b418;
+    background-color: #4fb85d56;
+    color: black;
+}
+
+.input-number:focus {
+    outline: none;
+    border-color: #00b418;
+}
+
 .input:focus {
     outline: none;
     border-color: #007bff;
